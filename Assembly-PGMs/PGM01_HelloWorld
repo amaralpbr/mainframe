@@ -3,7 +3,7 @@
 ***********************************************************************
 * PROGRAM STARTUP PROCEDURES (LINKAGE CONVENTION)    
 * MAKE SURE YOU RUN A 2ND PGM TO MOUNT THIS PGM 
-* AND AN EXEC SUBSEQUENTLY  
+* AND AN EXEC PGM SUBSEQUENTLY TO COMPLETE THE TEST  
 *********************************************************************** 
 ASMP1600 AMODE 31 OPTIONAL                                              
 ASMP1600 RMODE 24 OPTIONAL                                              
